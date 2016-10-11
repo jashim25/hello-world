@@ -1,2 +1,2 @@
 # hello-world
-from the guide
+Just learning git from the guide prior to doing LCTHW
